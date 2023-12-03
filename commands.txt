@@ -1,0 +1,5 @@
+
+
+protoc --go_out=./myPkgName --go_opt=paths=source_relative --go-grpc_out=./myPkgName --go-grpc_opt=paths=source_relative invoicer.proto
+
+{ "from": "Tim","to": "No one","total": 2}
