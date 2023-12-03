@@ -1,4 +1,4 @@
-module grpsex
+module github.com/TimurKasymov/grpsex
 
 go 1.21.4
 
