@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/TimurKasymov/grpsex/myPkgName"
 	"golang.org/x/net/context"
-	"grpsex/myPkgName"
 	"log"
 )
 

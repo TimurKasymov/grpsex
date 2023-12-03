@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/TimurKasymov/grpsex/myPkgName"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
-	"grpsex/myPkgName"
 	"log"
 	"net"
 )
